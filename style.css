@@ -6,14 +6,13 @@ nav{
   justify-content: space-around;
   align-items: center;
   min-height: 8vh;
-  background-color: lightpink;
-
+  width: 100%;
 }
-.logo{
-  /*letter-spacing: 5px;*/
-  margin: 10px ;
-  padding: 10px;
+nav .logo{
+  letter-spacing: 5px;
+  background-color: lightpink;
   justify-content: flex;
+  width:100%;
 }
 .nav-links{
   margin: 10px ;
